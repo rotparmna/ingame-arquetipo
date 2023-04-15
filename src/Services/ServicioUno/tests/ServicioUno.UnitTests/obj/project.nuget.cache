@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "CpSn5IoKuw6wojK/ojOnOP6ld+B/Ww0uuGybEt0ctUQDC1iefwzunzjm3LQ/8EpresFXwC5Qv2zrpw2kAW//yg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\rotpa\\source\\repos\\rotparmna\\ingame-arquetipo\\src\\Services\\ServicioUno\\tests\\ServicioUno.UnitTests\\ServicioUno.UnitTests.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se puede cargar el índice de servicio para el origen https://api.nuget.org/v3/index.json.",
+      "libraryId": "NUnit.Analyzers"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se puede cargar el índice de servicio para el origen https://api.nuget.org/v3/index.json.",
+      "libraryId": "NUnit"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se puede cargar el índice de servicio para el origen https://api.nuget.org/v3/index.json.",
+      "libraryId": "coverlet.collector"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se puede cargar el índice de servicio para el origen https://api.nuget.org/v3/index.json.",
+      "libraryId": "NUnit3TestAdapter"
+    }
+  ]
+}
