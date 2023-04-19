@@ -26,8 +26,7 @@
   <ItemGroup>
     <Folder Include="Domain\Models\" />
     <Folder Include="HealthChecks\" />
-    <Folder Include="Middleware\ExceptionHandling\" />
-    <Folder Include="Middleware\Logging\" />
+    <Folder Include="Middleware\" />
   </ItemGroup>
 
 </Project>
